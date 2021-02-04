@@ -1,7 +1,7 @@
 if Time.now.to_i % 2 == 0
-  puts "even!"
+  puts "Even!"
 else
-  puts "odd!"
+  puts "Odd!"
 end
 
 # #current_time = Time.now
