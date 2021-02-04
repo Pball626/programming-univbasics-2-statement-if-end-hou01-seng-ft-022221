@@ -12,5 +12,3 @@ if current_time.even?
 else
   puts "odd!"
 end
-
-learn
