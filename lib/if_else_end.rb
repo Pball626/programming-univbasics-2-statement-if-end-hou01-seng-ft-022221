@@ -4,5 +4,6 @@ if current_time % 2 == 0
   puts "even!
   else
     puts "odd!"
-    end"
+end
+
 # Write your solution here
